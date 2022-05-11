@@ -11,7 +11,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Still Doubt](#still-doubt)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -24,7 +23,7 @@ I have created NFT site using HTML, CSS. I created two CSS styles file, One is (
 
 I were facing some challenges in making NFT site such as:
 1. Transiiton effect while hovering.
-2. Opacity of icon (still facing).
+2. Opacity of icon.
 
 ### Links
 
@@ -56,9 +55,6 @@ I know how to use Transiton effect and because of this CSS is much easier to kno
   transition: 1s ease;
 }
 ```
-
-### Still Doubt
-I am facing issue to fixed opacity of icon while hovering.
 
 ### Useful resources
 
