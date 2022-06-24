@@ -62,7 +62,7 @@ I know how to use Transiton effect and because of this CSS is much easier to kno
 
 ## Author
 
-- Frontend Mentor - [@@codekesh](https://www.frontendmentor.io/profile/codekesh)
+- Frontend Mentor - [@codekesh](https://www.frontendmentor.io/profile/codekesh)
 - Twitter - [@tulsyan_keshav](https://twitter.com/tulsyan_keshav)
 
 ## Acknowledgments
